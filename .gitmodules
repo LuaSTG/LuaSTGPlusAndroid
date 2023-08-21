@@ -1,0 +1,3 @@
+[submodule "app/jni/LuaSTGPlus"]
+	path = app/jni/LuaSTGPlus
+	url = https://github.com/9chu/LuaSTGPlus
